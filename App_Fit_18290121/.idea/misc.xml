@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/headcell.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_add_circle.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_add_circle_grey.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_menu_action_add.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_menu_action_back.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_menu_action_delete.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_menu_action_edit.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_menu_action_restaurant.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_menu_action_restaurant_menu.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable-v24/ic_menu_add.xml" value="0.3640625" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/drawable/side_nav_bar.xml" value="0.2046875" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/activity_fragment.xml" value="0.1703125" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/app_bar_main.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/content_fragment.xml" value="0.1703125" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/content_main.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_add_food_to_diary.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_add_food_to_diary_view_food.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_categories.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_categories_add_edit.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_categories_delete.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_food.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_food_delete.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_food_edit.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_food_list_item.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_food_view.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_goal.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_goal_edit.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_gome_select_meal_number.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_home.xml" value="0.34791666666666665" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_home_edit_or_delete.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_p.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_profile.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_test.xml" value="0.1703125" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/fragment_update.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/home_add_food_activity.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/nav_header_main.xml" value="0.18854166666666666" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/sign_up.xml" value="0.1" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/layout/sign_up_goal.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/menu/activity_fragment_drawer.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/menu/activity_main_drawer.xml" value="0.31145833333333334" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/menu/main.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/menu/menu_categories.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/menu/menu_food.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/menu/menu_goal.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/Baturay/AndroidStudioProjects/Pro/app/src/main/res/menu/menu_home.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
